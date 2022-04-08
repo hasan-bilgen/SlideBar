@@ -1,1 +1,1 @@
-# SlideBar
+# Basic Slide Bar
